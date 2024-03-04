@@ -1,0 +1,10 @@
+img{
+    border: 1px solid rgb(83, 49, 53);
+}
+
+button{
+    background-color: rgb(255, 234, 238);
+    color: rgb(119, 63, 72);
+    border-color: rgb(179, 126, 135);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
